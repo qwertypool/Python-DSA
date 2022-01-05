@@ -1,3 +1,1 @@
 #Creating Graph in Python:
-
-{}
